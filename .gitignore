@@ -1,0 +1,20 @@
+# Archivos de Microsoft Word
+*.doc
+*.docx
+*.docm
+*.dotx
+
+# Archivos de Microsoft Excel
+*.xls
+*.xlsx
+*.xlsm
+*.xltx
+
+# Archivos de Microsoft PowerPoint
+*.ppt
+*.pptx
+*.pptm
+
+# Archivos temporales de Office (muy importante)
+~$*
+.~lock.*
